@@ -1,2 +1,4 @@
 # LW3-NFT-SOPHOMORE
-Learnweb3DAO NFT tutorial in sophomore
+
+
+this is the demo for github hosted by Daniel.
